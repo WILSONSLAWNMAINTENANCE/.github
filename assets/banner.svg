@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">.github</title>
+  <desc id="d">The profile, the welcome, and the defaults every repository shares. The picture: an arch of 13 stones lights from both sides inward until the keystone is reached. With reduced motion, the finished picture shows at once.</desc>
+  <style>
+    /* Motion only for readers who have not asked for less. Outside this block everything is in its finished state. */
+    @media (prefers-reduced-motion: no-preference) {
+      .draw { stroke-dasharray: 100; animation: draw 2.6s cubic-bezier(.4,0,.2,1) both; }
+      .arrive { animation: arrive .5s ease-out both; }
+      .breathe { transform-box: fill-box; transform-origin: center; animation: breathe 8s steps(48) 3s infinite; }
+      .halo { transform-box: fill-box; transform-origin: center; animation: halo 5s steps(60) 3.6s infinite; }
+    }
+    @keyframes draw { from { stroke-dashoffset: 100 } to { stroke-dashoffset: 0 } }
+    @keyframes arrive { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes breathe { 0%, 100% { transform: scale(1) } 50% { transform: scale(1.07) } }
+    @keyframes halo { 0% { opacity: .55; transform: scale(1) } 70%, 100% { opacity: 0; transform: scale(2.1) } }
+    .halo { opacity: 0 }
+  </style>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2918"/><stop offset="1" stop-color="#101919"/></linearGradient>
+    <linearGradient id="line" gradientUnits="userSpaceOnUse" x1="668" y1="0" x2="1160" y2="0"><stop offset="0.00" stop-color="#4d7c0f"/><stop offset="0.50" stop-color="#65a30d"/><stop offset="1.00" stop-color="#afd476"/></linearGradient>
+    <linearGradient id="fade" gradientUnits="userSpaceOnUse" x1="620" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#65a30d" stop-opacity="0"/><stop offset=".35" stop-color="#65a30d"/><stop offset="1" stop-color="#afd476"/></linearGradient>
+    <clipPath id="card"><rect width="1200" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <!-- an opaque ground: the same picture on GitHub's light and dark themes -->
+    <rect width="1200" height="260" fill="url(#ground)"/>
+    <path d="M838.0 220A120 120 0 0 1 1078.0 220Z" fill="#2a4116" fill-opacity=".28"/>
+    <path class="arrive" style="animation-delay:0.30s" d="M816.0 217.4A142 142 0 0 1 819.5 188.5" fill="none" stroke="#3c6013" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:0.58s" d="M820.7 183.5A142 142 0 0 1 831.1 156.3" fill="none" stroke="#436b12" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:0.86s" d="M833.5 151.8A142 142 0 0 1 850.0 127.8" fill="none" stroke="#4a7611" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.14s" d="M853.4 123.9A142 142 0 0 1 875.2 104.6" fill="none" stroke="#508210" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.42s" d="M879.4 101.7A142 142 0 0 1 905.2 88.2" fill="none" stroke="#578d0f" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.70s" d="M910.0 86.3A142 142 0 0 1 938.3 79.4" fill="none" stroke="#5e980e" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.98s" d="M943.4 78.8A142 142 0 0 1 972.6 78.8" fill="none" stroke="#afd476" stroke-width="34"/>
+    <path class="arrive" style="animation-delay:1.70s" d="M977.6 79.4A142 142 0 0 1 1005.9 86.3" fill="none" stroke="#5e980e" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.42s" d="M1010.7 88.2A142 142 0 0 1 1036.5 101.7" fill="none" stroke="#578d0f" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:1.14s" d="M1040.7 104.6A142 142 0 0 1 1062.6 123.9" fill="none" stroke="#508210" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:0.86s" d="M1065.9 127.8A142 142 0 0 1 1082.5 151.8" fill="none" stroke="#4a7611" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:0.58s" d="M1084.9 156.3A142 142 0 0 1 1095.2 183.5" fill="none" stroke="#436b12" stroke-width="28"/>
+    <path class="arrive" style="animation-delay:0.30s" d="M1096.4 188.5A142 142 0 0 1 1100.0 217.4" fill="none" stroke="#3c6013" stroke-width="28"/>
+    <circle class="halo" cx="958.0" cy="78.0" r="22" fill="none" stroke="#afd476" stroke-width="2"/>
+    <circle cx="1003.8" cy="198.8" r="2.2" fill="#afd476" opacity=".7"/>
+    <circle cx="1011.0" cy="128.8" r="2.6" fill="#afd476" opacity=".7"/>
+    <circle cx="993.5" cy="154.6" r="1.7" fill="#afd476" opacity=".7"/>
+    <circle cx="1012.1" cy="162.5" r="1.8" fill="#afd476" opacity=".7"/>
+    <rect x="0.0" y="248" width="300.5" height="12" fill="#365314"/><rect x="300.0" y="248" width="300.5" height="12" fill="#4d7c0f"/><rect x="600.0" y="248" width="300.5" height="12" fill="#65a30d"/><rect x="900.0" y="248" width="300.5" height="12" fill="#ecfccb"/>
+    <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif"><text x="56" y="56.6" fill="#65a30d" font-size="15" font-weight="700" letter-spacing=".6">Wilson's Lawn Maintenance</text><text x="56" y="122.2" fill="#ecfccb" font-size="60" font-weight="700" letter-spacing="-.5">.github</text><text x="56" y="166.0" fill="#cfdeb2" font-size="23">The profile, the welcome, and the defaults every</text><text x="56" y="196.8" fill="#cfdeb2" font-size="23">repository shares.</text></g>
+  </g>
+</svg>
