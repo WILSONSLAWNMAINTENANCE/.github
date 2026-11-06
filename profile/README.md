@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.facebook.com/WilsonslawnmaintenancePA/"><img alt="The business on Facebook" src="https://img.shields.io/badge/the_business-Facebook-65a30d?style=flat-square"></a>
   <a href="https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/OPENING-YOUR-GIFT.md"><img alt="Opening your gift" src="https://img.shields.io/badge/opening-your_gift-4d7c0f?style=flat-square"></a>
-  <a href="https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.md"><img alt="Welcome deck" src="https://img.shields.io/badge/welcome-deck-365314?style=flat-square"></a>
+  <a href="https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.pdf"><img alt="Welcome deck" src="https://img.shields.io/badge/welcome-deck-365314?style=flat-square"></a>
   <img alt="A work in progress" src="https://img.shields.io/badge/status-a_work_in_progress-64748b?style=flat-square">
 </p>
 
@@ -27,8 +27,8 @@ day the business wants it. Nothing here asks anything of a customer, and nothing
 
 | | Where | What you'll find |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/gift.svg" width="16" height="16" alt=""> | [Opening your gift, on slides](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/opening-your-gift.marp.md) | the gift in a few slides: what it is, what to expect, what it could become |
-| <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/presentation.svg" width="16" height="16" alt=""> | [Welcome deck](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.md) | the business's home in seven short stops, from a first GitHub account to a helper reading beside you |
+| <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/gift.svg" width="16" height="16" alt=""> | [Opening your gift, on slides](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/opening-your-gift.marp.pdf) ([slides](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/opening-your-gift.marp.html), [markdown](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/opening-your-gift.marp.md)) | the gift in a few slides: what it is, what to expect, what it could become |
+| <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/presentation.svg" width="16" height="16" alt=""> | [Welcome deck](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.pdf) ([slides](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.html), [markdown](https://github.com/WILSONSLAWNMAINTENANCE/.github/blob/main/decks/welcome.marp.md)) | the business's home in seven short stops, from a first GitHub account to a helper reading beside you |
 | <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/globe.svg" width="16" height="16" alt=""> | [Reading room, for visitors](https://WILSONSLAWNMAINTENANCE.github.io/reading-room-public/) | the public front page: what the business has chosen to share, and the door to the members' room |
 | <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/door-open.svg" width="16" height="16" alt=""> | [Reading room, members](https://github.com/WILSONSLAWNMAINTENANCE/reading-room) | everything written for the business, for its owners and the readers they name (a 404 means "not yet", not "broken") |
 | <img src="https://raw.githubusercontent.com/WILSONSLAWNMAINTENANCE/.github/main/profile/assets/icons/scroll-text.svg" width="16" height="16" alt=""> | [Procedures](https://github.com/WILSONSLAWNMAINTENANCE/ops-standard-operating-procedures-public) | *this is how it is done*: the procedures the owner has listed for visitors |

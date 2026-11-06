@@ -27,8 +27,8 @@
 | | Where | What it holds |
 |---|---|---|
 | <img src="assets/icons/user-round.svg" width="16" height="16" alt=""> | [`profile/`](profile/) | the organisation page GitHub shows, with its banner and icons |
-| <img src="assets/icons/gift.svg" width="16" height="16" alt=""> | [`OPENING-YOUR-GIFT.md`](OPENING-YOUR-GIFT.md) | **read this one first:** what Jeff has been given, what to expect, and what it could become, in plain words |
-| <img src="assets/icons/presentation.svg" width="16" height="16" alt=""> | [`decks/`](decks/) | two short decks on slides: [*Opening your gift*](decks/opening-your-gift.marp.md) and the [welcome](decks/welcome.marp.md) in seven stops |
+| <img src="assets/icons/gift.svg" width="16" height="16" alt=""> | [`OPENING-YOUR-GIFT.md`](OPENING-YOUR-GIFT.md) | **read this one first:** what Jeff has been given, what to expect, and what it could become, in plain words, with a [PDF](OPENING-YOUR-GIFT.pdf) |
+| <img src="assets/icons/presentation.svg" width="16" height="16" alt=""> | [`decks/`](decks/) | two short decks on slides, each a PDF to open: [*Opening your gift*](decks/opening-your-gift.marp.pdf) ([source](decks/opening-your-gift.marp.md)) and the [welcome](decks/welcome.marp.pdf) in seven stops ([source](decks/welcome.marp.md)) |
 | <img src="assets/icons/footprints.svg" width="16" height="16" alt=""> | [`ONBOARDING.md`](ONBOARDING.md) | for anyone who has joined: two-factor sign-in, connecting a helper, how the work is done |
 | <img src="assets/icons/git-pull-request.svg" width="16" height="16" alt=""> | [`CONTRIBUTING.md`](CONTRIBUTING.md) | the default contributing guide for repositories here that have none of their own |
 | <img src="assets/icons/shield-check.svg" width="16" height="16" alt=""> | [`SECURITY.md`](SECURITY.md) | how to report a security problem |

@@ -2,7 +2,7 @@
 
 *For people joining the organisation, and for the AI helpers who read beside them.*
 
-**Never heard of GitHub? Start with [Opening your gift](OPENING-YOUR-GIFT.md)**: what Jeff was given, what to expect,
+**Never heard of GitHub? Start with [Opening your gift](OPENING-YOUR-GIFT.md)** ([PDF](OPENING-YOUR-GIFT.pdf)): what Jeff was given, what to expect,
 and the first ten minutes, in plain words. Five minutes, and it asks you for nothing.
 
 ## Who is who
@@ -36,7 +36,7 @@ walks it step by step. In short:
 
 | Public (anyone) | Private (owners, and the readers they name) |
 |---|---|
-| this `.github` repository: the profile, the [decks](decks/) | `reading-room`: everything written for the business |
+| this `.github` repository: the profile, the decks ([welcome](decks/welcome.marp.pdf), [opening your gift](decks/opening-your-gift.marp.pdf)) | `reading-room`: everything written for the business |
 | `brand-assets`: the logo and the photos, and who may use them | `proposals`: ideas offered to the business |
 | `reading-room-public`: the [visitors' front page](https://WILSONSLAWNMAINTENANCE.github.io/reading-room-public/) | `ops-standard-operating-procedures`: every procedure |
 | `ops-standard-operating-procedures-public`: the procedures listed for visitors | `legal`: the paperwork, for the owner and counsel only |

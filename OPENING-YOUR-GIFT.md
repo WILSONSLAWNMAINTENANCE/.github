@@ -132,4 +132,4 @@ a short readiness check for the day one is ever wanted.
 
 ---
 
-<sub>Written for Jeff by his brother's lab. Icons: Lucide (ISC). The first-hour procedure this page leads to is [SOP-COM-001](https://github.com/WILSONSLAWNMAINTENANCE/ops-standard-operating-procedures-public/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md). The same page is on slides: [`decks/opening-your-gift.marp.md`](decks/opening-your-gift.marp.md).</sub>
+<sub>Written for Jeff by his brother's lab. Icons: Lucide (ISC). The first-hour procedure this page leads to is [SOP-COM-001](https://github.com/WILSONSLAWNMAINTENANCE/ops-standard-operating-procedures-public/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md). The same page is on slides: [open the deck](decks/opening-your-gift.marp.pdf) (source: [`decks/opening-your-gift.marp.md`](decks/opening-your-gift.marp.md)), and this page is also a [PDF](OPENING-YOUR-GIFT.pdf).</sub>
